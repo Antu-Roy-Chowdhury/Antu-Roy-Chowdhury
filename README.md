@@ -1,6 +1,48 @@
+# Hi there, I'm Antu Roy Chowdhury 👋
 
-<h1 align="center">Hi 👋, I'm Antu Roy Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+[![My Animation](about:sanitized)](https://github.com/Antu-Roy-Chowdhury/Antu-Roy-Chowdhury/blob/main/assets/my-animation.gif?raw=true)
+Welcome to my GitHub profile\! I'm a BSc. Engineering student in Electronics and Telecommunication Engineering with a passion for bridging the gap between hardware and software. My current research interests lie in the exciting fields of **Machine Learning** and **Image Processing**.
+
+## About Me
+
+  * **Student:** BSc. in Electronics and Telecommunication Engineering.
+  * **Research Interests:** Machine Learning, Image Processing.
+  * **Development Focus:** Building practical applications and exploring new technologies.
+  * **Location:** \[You can add your location if you want]
+
+## What You'll Find Here
+
+My repositories showcase a blend of academic projects, research explorations, and personal development endeavors. You'll find projects related to:
+
+  * **Machine Learning:** Implementing and experimenting with various machine learning algorithms.
+  * **Image Processing:** Developing applications involving image manipulation and analysis.
+  * **Electronics and Telecommunication:** Projects related to coursework and personal explorations in the field.
+
+## Featured Repositories
+
+Here are some highlighted repositories:
+
+  * **[Traffic-Violation-Detection](https://github.com/Antu-Roy-Chowdhury/Traffic-Violation-Detection):** A project focused on traffic violation detection using machine learning and image processing techniques.
+  * **[Image-Processing-Codes](https://github.com/Antu-Roy-Chowdhury/Image-Processing-Codes):** Contains various image processing code implementations.
+  * **[Machine-Learning-Codes](https://github.com/Antu-Roy-Chowdhury/Machine-Learning-Codes):** Houses implementations of different machine learning algorithms.
+
+## Technologies I Use
+
+  * **Programming Languages:** Python, C/C++, MATLAB
+  * **Machine Learning Libraries:** TensorFlow, Keras, scikit-learn
+  * **Image Processing Libraries:** OpenCV
+  * **Other Tools:** Git, Docker
+
+## Let's Connect\!
+
+  * **LinkedIn:** \[Your LinkedIn Profile URL]
+  * **Email:** \[Your Email Address]
+  * \[Add other social media or contact information]
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+
+Thanks for visiting\!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
