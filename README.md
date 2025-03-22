@@ -2,21 +2,19 @@
 
 ![Debi](https://github.com/user-attachments/assets/1233122e-7a58-4318-8aa5-47070dfeccab)
 
-Welcome to my GitHub profile\! I'm a BSc. Engineering student in Electronics and Telecommunication Engineering with a passion for bridging the gap between hardware and software. My current research interests lie in the exciting fields of **Machine Learning** and **Image Processing**.
+Welcome to my GitHub profile\! I'm a BSc. Engineering student in Electronics and Telecommunication Engineering at Rajshahi University of Engineering and Technology with a passion for bridging the gap between hardware and software. My current research interests lie in the exciting fields of **Machine Learning** and **Image Processing**.
 
 ## About Me
 
   * **Student:** BSc. in Electronics and Telecommunication Engineering.
-  * **Research Interests:** Machine Learning, Image Processing.
+  * **Research Interests:** Machine Learning, Image Processing, LLM.
   * **Development Focus:** Building practical applications and exploring new technologies.
-  * **Location:** \[You can add your location if you want]
 
 ## What You'll Find Here
 
 My repositories showcase a blend of academic projects, research explorations, and personal development endeavors. You'll find projects related to:
 
-  * **Machine Learning:** Implementing and experimenting with various machine learning algorithms.
-  * **Image Processing:** Developing applications involving image manipulation and analysis.
+  * **Machine Learning:** Implementing and experimenting with various machine learning algorithms. Developing applications involving image ***Segmentation*** and ***Clasifications***.
   * **Electronics and Telecommunication:** Projects related to coursework and personal explorations in the field.
 
 ## Featured Repositories
@@ -30,39 +28,24 @@ Here are some of my highlighted projects, organized by category:
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Arduino Repo]" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">Arduino</p>
+        <p style="font-size: 0.9em;">Line Follower Bot</p>
       </a>
     </td>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to NodeMCU Repo]" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Espressif_logo.svg/1024px-Espressif_logo.svg.png" alt="NodeMCU" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">NodeMCU</p>
-       </a>
+        <img src="https://static.cdnlogo.com/logos/a/22/arduino.svg"><p>Air Polution Bot</p>
+        </a>
     </td>
     <td style="border: none; padding: 8px; text-align: center;">
-      <a href="[Link to Electronics Module 1 Repo]" target="_blank" rel="noreferrer">
+      <a href="[Link to IoT]" target="_blank" rel="noreferrer">
         <img src="https://cdn-shop.adafruit.com/static/adafruit_products/icons/circuitpython_RGB_Icon.png" alt="Electronics Module" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">Electronics Module 1</p>
+        <p style="font-size: 0.9em;">IoT</p>
       </a>
     </td>
      <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Electronics Module 2 Repo]" target="_blank" rel="noreferrer">
         <img src="https://cdn-shop.adafruit.com/static/adafruit_products/icons/circuitpython_RGB_Icon.png" alt="Electronics Module" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">Electronics Module 2</p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; text-align: center;">
-      <a href="[Link to Electronics Module 3 Repo]" target="_blank" rel="noreferrer">
-        <img src="https://cdn-shop.adafruit.com/static/adafruit_products/icons/circuitpython_RGB_Icon.png" alt="Electronics Module" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">Electronics Module 3</p>
-      </a>
-    </td>
-     <td style="border: none; padding: 8px; text-align: center;">
-      <a href="[Link to Electronics Module 4 Repo]" target="_blank" rel="noreferrer">
-        <img src="https://cdn-shop.adafruit.com/static/adafruit_products/icons/circuitpython_RGB_Icon.png" alt="Electronics Module" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">Electronics Module 4</p>
+        <p style="font-size: 0.9em;">Mars rover</p>
       </a>
     </td>
   </tr>
@@ -75,19 +58,13 @@ Here are some of my highlighted projects, organized by category:
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Traffic Violation Detection Repo]" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Traffic Violation Detection" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">Traffic Violation Detection</p>
+        <p style="font-size: 0.9em;">White Blood Cell Classification</p>
       </a>
     </td>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Image Processing Codes Repo]" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Image Processing" width="40" height="40" style="margin-right: 10px;"/>
-         <p style="font-size: 0.9em;">Image Processing Codes</p>
-      </a>
-    </td>
-    <td style="border: none; padding: 8px; text-align: center;">
-      <a href="[Link to Machine Learning Codes Repo]" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning" width="40" height="40" style="margin-right: 10px;"/>
-        <p style="font-size: 0.9em;">Machine Learning Codes</p>
+         <p style="font-size: 0.9em;">Image Processing Filtering</p>
       </a>
     </td>
   </tr>
@@ -129,6 +106,12 @@ Here are some of my highlighted projects, organized by category:
         <p style="font-size: 0.9em;">Development Project 5</p>
       </a>
     </td>
+        <td style="border: none; padding: 8px; text-align: center;">
+      <a href="[Link to Development Project 5 Repo]" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Development Project 5" width="40" height="40" style="margin-right: 10px;"/>
+        <p style="font-size: 0.9em;">Development Project 5</p>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -138,13 +121,13 @@ Here are some of my highlighted projects, organized by category:
   <tr>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Python Backend Project 1 Repo]" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Python Backend Project 1" width="40" height="40" style="margin-right: 10px;"/>
+        <img src="https://static.cdnlogo.com/logos/p/59/python.png" alt="Python Backend Project 1" width="40" height="40" style="margin-right: 10px;"/>
         <p style="font-size: 0.9em;">Python Backend Project 1</p>
       </a>
     </td>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Python Backend Project 2 Repo]" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Python Backend Project 2" width="40" height="40" style="margin-right: 10px;"/>
+        <img src="https://static.cdnlogo.com/logos/p/59/python.png" alt="Python Backend Project 2" width="40" height="40" style="margin-right: 10px;"/>
         <p style="font-size: 0.9em;">Python Backend Project 2</p>
       </a>
     </td>
@@ -160,9 +143,11 @@ Here are some of my highlighted projects, organized by category:
 <a href="https://codeforces.com/profile/antu_roy_chow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="antu_roy_chow" height="30" width="40" /></a>
 </p>
 
+** Thanks for visiting\!
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
-Thanks for visiting\!
+
 
 ## Languages and Tools
 
@@ -239,23 +224,3 @@ Thanks for visiting\!
     </td>
   </tr>
 </table>
-
-## GitHub Stats
-
-[![Anurag's GitHub stats](about:sanitized)](https://github.com/Antu-Roy-Chowdhury/Antu-Roy-Chowdhury)
-
-## GitHub Contributions
-
-[![GitHub Streak](about:sanitized)](https://github.com/Antu-Roy-Chowdhury/Antu-Roy-Chowdhury)
-
-  - **Total Contributions:** \[Your Total Contributions -  Get this from your profile]
-  - **Current Streak:** \[Your Current Streak -  Get this from the streak stats image]
-  - **Longest Streak:** \[Your Longest Streak -  Get this from the streak stats image]
-
-## My Stack
-
-\[List your most frequently used technologies here, e.g., Python, TensorFlow, React, etc.]
-
-## Languages Used
-
-\[List the programming languages you are proficient in, e.g., Python, C++, JavaScript, etc.]
