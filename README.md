@@ -27,24 +27,24 @@ Here are some of my highlighted projects, organized by category:
   <tr>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Arduino Repo]" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin-right: 10px;"/>
+        <img src="https://static.cdnlogo.com/logos/a/22/arduino.svg" alt="Arduino" width="40" height="40" style="margin-right: 10px;"/>
         <p style="font-size: 0.9em;">Line Follower Bot</p>
       </a>
     </td>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to NodeMCU Repo]" target="_blank" rel="noreferrer">
-        <img src="https://static.cdnlogo.com/logos/a/22/arduino.svg"><p>Air Polution Bot</p>
+        <img src="https://static.cdnlogo.com/logos/a/22/arduino.svg" width="40" height="40" style="margin-right: 10px;"><p>Air Polution Bot</p>
         </a>
     </td>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to IoT]" target="_blank" rel="noreferrer">
-        <img src="https://cdn-shop.adafruit.com/static/adafruit_products/icons/circuitpython_RGB_Icon.png" alt="Electronics Module" width="40" height="40" style="margin-right: 10px;"/>
+        <img src="https://static.cdnlogo.com/logos/a/22/arduino.svg" width="40" height="40" style="margin-right: 10px;">
         <p style="font-size: 0.9em;">IoT</p>
       </a>
     </td>
      <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Electronics Module 2 Repo]" target="_blank" rel="noreferrer">
-        <img src="https://cdn-shop.adafruit.com/static/adafruit_products/icons/circuitpython_RGB_Icon.png" alt="Electronics Module" width="40" height="40" style="margin-right: 10px;"/>
+        <img src="https://static.cdnlogo.com/logos/a/22/arduino.svg" width="40" height="40" style="margin-right: 10px;">
         <p style="font-size: 0.9em;">Mars rover</p>
       </a>
     </td>
@@ -121,13 +121,13 @@ Here are some of my highlighted projects, organized by category:
   <tr>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Python Backend Project 1 Repo]" target="_blank" rel="noreferrer">
-        <img src="https://static.cdnlogo.com/logos/p/59/python.png" alt="Python Backend Project 1" width="40" height="40" style="margin-right: 10px;"/>
+        <img src="https://static.cdnlogo.com/logos/p/59/python.png" alt="Python Backend Project 1" width="60" height="60" style="margin-right: 10px;"/>
         <p style="font-size: 0.9em;">Python Backend Project 1</p>
       </a>
     </td>
     <td style="border: none; padding: 8px; text-align: center;">
       <a href="[Link to Python Backend Project 2 Repo]" target="_blank" rel="noreferrer">
-        <img src="https://static.cdnlogo.com/logos/p/59/python.png" alt="Python Backend Project 2" width="40" height="40" style="margin-right: 10px;"/>
+        <img src="https://static.cdnlogo.com/logos/p/59/python.png" alt="Python Backend Project 2" width="60" height="60" style="margin-right: 10px;"/>
         <p style="font-size: 0.9em;">Python Backend Project 2</p>
       </a>
     </td>
