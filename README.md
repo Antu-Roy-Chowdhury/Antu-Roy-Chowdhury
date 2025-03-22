@@ -1,6 +1,6 @@
 # Hi there, I'm Antu Roy Chowdhury 👋
 
-![Debi](https://github.com/user-attachments/assets/c6064de2-096d-40ac-b87a-ba2b359442f3)
+![Debi](https://github.com/user-attachments/assets/1058ff3d-e96d-4f16-b4fd-874076ee05ea)
 
 Welcome to my GitHub profile\! I'm a BSc. Engineering student in Electronics and Telecommunication Engineering at Rajshahi University of Engineering and Technology with a passion for bridging the gap between hardware and software. My current research interests lie in the exciting fields of **Machine Learning** and **Image Processing**.
 
